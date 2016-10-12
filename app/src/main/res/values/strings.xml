@@ -1,10 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Wari</string>
+    <string name="initialSeeds">4</string>
+    <string name="filler">"    "</string>
 
-    <string name="app_name">One Button Recursion</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="button1Contents">Button1</string>
-    <string name="textView1Contents">777</string>
+    <string name="textView1_1Contents">Player 1 Winnings</string>
+    <string name="textView1_2Contents">0</string>
+
+    <string name="buttonP1C1Contents">P1/C1</string>
+    <string name="buttonP1C2Contents">P1/C2</string>
+    <string name="buttonP1C3Contents">P1/C3</string>
+    <string name="buttonP1C4Contents">P1/C4</string>
+    <string name="buttonP1C5Contents">P1/C5</string>
+    <string name="buttonP1C6Contents">P1/C6</string>
+    <string name="buttonP2C1Contents">P2/C1</string>
+    <string name="buttonP2C2Contents">P2/C2</string>
+    <string name="buttonP2C3Contents">P2/C3</string>
+    <string name="buttonP2C4Contents">P2/C4</string>
+    <string name="buttonP2C5Contents">P2/C5</string>
+    <string name="buttonP2C6Contents">P2/C6</string>
+
+    <string name="textView2_2Contents">0</string>
+    <string name="textView2_1Contents">Player 2 Winnings</string>
 </resources>
 
